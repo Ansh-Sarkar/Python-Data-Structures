@@ -1,9 +1,13 @@
 # Python-Data-Structures
 This repository contains the code for implementing various Data Structures in Python. It can be used as a quick lookup module or reference for anyone interested in Data Structures . I will keep updating this repository frequently as and when I come across new Data Structures : )
 
+# 
+
 <p align="center">
-  <img src="images/dsa.jpeg" />
- </p>
+  <img src="images/dsa.jpeg">
+</p>
+ 
+ # 
 
 # Data Structures
 Data Structures (DS) tutorial provides basic and advanced concepts of Data Structure. Our Data Structure tutorial is designed for beginners and professionals.
