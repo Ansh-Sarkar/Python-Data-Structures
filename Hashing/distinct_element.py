@@ -46,5 +46,3 @@ N = len(arr)
 # Function call
 countDistinct(arr, N, K)
 
-# This code is contributed by
-# Mohit kumar 29
